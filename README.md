@@ -1,11 +1,13 @@
 # webPack 🕸<sup>
 <b><i>This assumes you are using GNU/Linux
   
-<b><i>This also assumes you have vscode and nodejs installed
+<b><i>This also assumes you have vscode and nodejs installed 
+  
+🚧<b><i>This is still a work in progress🚧
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-- Open up vscode in the terminal
+- Open up vscode in the terminal 🖥
 
 ```
 code .
@@ -13,7 +15,7 @@ code .
 
 <p>&nbsp;</p>
 
-- Install all the node modules
+- Install all the node modules ⬆
 
 ```
 npm i
