@@ -23,7 +23,11 @@ npm i
 
 <p>&nbsp;</p>
 
-- Run using browser-sync 🍕
+- Run using browser-sync 🌍
 ```
 browser-sync
 ```
+
+<p>&nbsp;</p>
+
+- You are done! 🍕
