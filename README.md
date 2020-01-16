@@ -30,8 +30,8 @@ browser-sync
 
 <p>&nbsp;</p>
 
-- You are done! 🍕
+- You are done! 🍺
 
 ```
-Grab a beer! 🍺
+Grab a beer! 
 ```
