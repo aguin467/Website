@@ -31,3 +31,7 @@ browser-sync
 <p>&nbsp;</p>
 
 - You are done! 🍕
+
+```
+Grab a beer! 🍺
+```
