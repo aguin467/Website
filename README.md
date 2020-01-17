@@ -4,3 +4,22 @@
 <b><i>This also assumes you have vscode and nodejs installed 
   
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+- Install the dependencies 
+```
+npm i
+```
+<p>&nbsp;</p>
+
+- Then build the files
+```
+npm run build
+```
+
+<p>&nbps;</p>
+
+- Start the application
+```
+npm run start
+```
+
