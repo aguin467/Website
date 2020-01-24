@@ -1,9 +1,5 @@
-![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) <sup>Webpack</sup>
+![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) 
 
-<b>*This assumes you are using GNU/Linux*
-  
-<b>*This also assumes you have vscode and nodejs installed*
-  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 - Install the dependencies 
