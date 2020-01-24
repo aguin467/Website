@@ -1,4 +1,4 @@
-![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) 
+![Webpac Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
