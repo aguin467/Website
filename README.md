@@ -1,4 +1,4 @@
-![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) Webpack
+![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg) <sup>Webpack
 
 <b>*This assumes you are using GNU/Linux*
   
