@@ -1,8 +1,8 @@
 ![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.svg)
 
-<b><i>This assumes you are using GNU/Linux
+<b>*This assumes you are using GNU/Linux*
   
-<b><i>This also assumes you have vscode and nodejs installed 
+<b>*This also assumes you have vscode and nodejs installed*
   
 ------------------------------------------------------------------------------------------------------------------------------------------
 
