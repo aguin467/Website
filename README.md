@@ -1,4 +1,4 @@
-![Travis Status](https://travis-ci.org/aguin467/webPack.svg?branch=master) 
+![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.png) ![Travis Status](https://travis-ci.org/aguin467/webPack.svg?branch=master) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
