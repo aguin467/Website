@@ -1,6 +1,6 @@
 ![Travis Status](https://travis-ci.org/aguin467/webPack.svg?branch=master)
 
-![Webpack Logo](https://github.com/aguin467/webPack/blob/master/webpack.png) 
+<p align="center"> <image src="https://github.com/aguin467/webPack/blob/master/webpack.png"> </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
