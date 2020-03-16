@@ -12,6 +12,7 @@
 
 <p align="center"> <image src="https://github.com/aguin467/webPack/blob/master/webpack.svg" /> </p>
 
+----------------------------------------------------------------------------------------------------------------------------------------
 ### Installation
 
 Install the dependencies
