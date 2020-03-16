@@ -1,4 +1,4 @@
-# Webpack Tempalte
+# Webpack Template
 [![build][build]][build-url] [![license][license]][license-url] [![license2][license2]][license2-url]
 
 [build]: https://travis-ci.org/aguin467/Website.svg?branch=master
